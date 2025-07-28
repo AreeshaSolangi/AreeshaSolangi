@@ -1,16 +1,13 @@
-## Hi there 👋
+# Welcome to my portfolio!
 
-<!--
-**AreeshaSolangi/AreeshaSolangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a data analyst focused on transforming raw data into clear, actionable insights. My experience spans SQL, Excel, Power BI, and MySQL, with hands-on projects that demonstrate how I clean, organize, and analyze data to support better business decisions.
 
-Here are some ideas to get you started:
+This portfolio highlights projects where I built interactive dashboards, performed complex SQL analysis, and extracted insights that reveal trends and opportunities. From identifying streaming patterns in Spotify data to analyzing employee salary growth and pizza sales performance, each project reflects my ability to work with real-world datasets and deliver meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SQL scripts using CTEs, window functions, and advanced queries for analytics.  
+Power BI dashboards showcasing visual storytelling and interactive insights.  
+Documentation explaining approach, findings, and key business takeaways for each project.
+
+Beyond technical skills, I approach data analysis with curiosity and problem-solving mindset, looking beyond numbers to understand what drives them.
+
+Thank you for visiting my portfolio, and I look forward to connecting and discussing how data can solve real business challenges.
